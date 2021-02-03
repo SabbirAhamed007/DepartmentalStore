@@ -1,0 +1,7 @@
+Feature: Test Macysdepartmentalstore
+
+  @tag1
+  Scenario: Smoke Test of Macysdepartmentalstore scenario [90m# MacysSmoke.feature:4[0m
+    [32mGiven [0m[32mI want to open chrome browser[0m                   [90m# MacysSmokeTest.i_want_to_open_chrome_browser()[0m
+    [32mWhen [0m[32mI verify shop by department button[0m               [90m# MacysSmokeTest.i_verify_shop_by_department_button()[0m
+    [32mThen [0m[32mI close the browser[0m                              [90m# MacysSmokeTest.i_close_the_browser()[0m

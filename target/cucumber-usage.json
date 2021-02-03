@@ -1,0 +1,56 @@
+[
+  {
+    "source": "^I verify shop by department button$",
+    "steps": [
+      {
+        "name": "I verify shop by department button",
+        "aggregatedDurations": {
+          "average": 0.6967745,
+          "median": 0.6967745
+        },
+        "durations": [
+          {
+            "duration": 0.6967745,
+            "location": "MacysSmoke.feature:6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I want to open chrome browser$",
+    "steps": [
+      {
+        "name": "I want to open chrome browser",
+        "aggregatedDurations": {
+          "average": 16.7273934,
+          "median": 16.7273934
+        },
+        "durations": [
+          {
+            "duration": 16.7273934,
+            "location": "MacysSmoke.feature:5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "source": "^I close the browser$",
+    "steps": [
+      {
+        "name": "I close the browser",
+        "aggregatedDurations": {
+          "average": 1.1296775,
+          "median": 1.1296775
+        },
+        "durations": [
+          {
+            "duration": 1.1296775,
+            "location": "MacysSmoke.feature:7"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="18.553845">
+<testcase classname="Test Macysdepartmentalstore" name="Smoke Test of Macysdepartmentalstore scenario" time="18.553845">
+<system-out><![CDATA[Given I want to open chrome browser.........................................passed
+When I verify shop by department button.....................................passed
+Then I close the browser....................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
